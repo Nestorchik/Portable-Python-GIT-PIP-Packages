@@ -1,4 +1,4 @@
-# Python-PIP-GIT пустые портабельные заготовки для Windows
+# Python-PIP-GIT портабельные заготовки для Windows
 
 # Python-PIP-GIT empty portable packages for Windows
 
